@@ -1,0 +1,50 @@
+
+
+/* @media screen and (max-width: 1600px) {
+.slick-dots li {
+    width: 15% !important;
+}
+
+.slick-dots .slick-active {
+    width: 15% !important;
+    background-color: #F4F5F8 !important;
+    height: 65px;
+    border-radius: 6px;
+}
+} */
+
+
+/* .css-angn3u-MuiTabs-flexContainer{
+    justify-content: center;
+    border-bottom: 0px solid;
+}
+.css-1ycfkz1-MuiButtonBase-root-MuiTab-root{
+    border-radius: 10px;
+    padding: 12px 35px;
+    font-size: 16px;
+    background: #fff;
+    color: #23262d;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+.css-1ycfkz1-MuiButtonBase-root-MuiTab-root.Mui-selected{
+    border-radius: 10px;
+    padding: 12px 35px;
+    font-size: 16px;
+    background: #92bd44;
+    color: #fff;
+    font-weight: 500;
+} */
+@media screen and (max-width: 600px) {
+
+    .slick-prev{
+        display: none !important;
+    }
+    .slick-next{
+        display: none !important;
+    }
+    .css-1g5bg9w{
+        padding: 20px !important;
+    }
+}
